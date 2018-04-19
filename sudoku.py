@@ -131,3 +131,4 @@ almost_ready = easy_try(take())
 ready = diff_try(almost_ready)
 if ready:
     output(almost_ready)
+print ('Danya sosunetz')
